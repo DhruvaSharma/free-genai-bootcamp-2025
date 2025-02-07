@@ -15,7 +15,7 @@
 - Do not use romaji when showing japanese except except in the table of vocabulary.
 - Do not give the answer completely.
 
-## Student Input: Bears are at the door, did you leave the garbage out?
+## Student Input: Did you see the raven this morning? They were looking at me.
 
 ### 3. **Examples**  
 Here are examples of user input and assitant output, pay attention to the score because
