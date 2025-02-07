@@ -11,5 +11,6 @@ Teaching Instructions:
 - Provide a possible sentence structure.
 - The table of vocabulary should only have the following columns: Japanese, Romaji, English.
 - Do not use romaji when showing japanese except except in the table of vocabulary.
+- Do not give the answer completely.
 
 Student Input: Bears are at the door, did you leave the garbage out?
