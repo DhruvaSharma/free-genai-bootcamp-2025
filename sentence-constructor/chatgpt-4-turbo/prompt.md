@@ -28,6 +28,18 @@ The formatted output will generally contain three parts:
 - The table of vocabulary should only have the following columns: Japanese, Romaji, English.
 ### Sentence Structure
 - do not provide particles in the sentence structure.
+- do not provide tenses or conjuggations in the sentence structure.
+- remember to consider beginner level sentence structures.
+
+Here is an example of simple sentence structures.
+- The bird is black. [Subject] [Adjective-desu].
+- The raven is in the garden. [Location] [Subject] [Verb].
+- Put the garbage in the garden. [Location] [Object] [Verb].
+- Did you see the raven? [Subject] [Object] [Verb-past]?
+- This morning, I saw the raven. [Time] [Subject] [Object] [Verb] .
+- Are you going? [Subject] [Verb]?
+- Did you eat the food? + [Object] [Verb]?
+
 ### Clues and Considerations
 - try and provide a non-nested bulleted list.
 - talk about the vocabulary but try to leave out the japanese words because the student can refer to the vocabulary table.
